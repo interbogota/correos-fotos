@@ -1,0 +1,209 @@
+[
+{
+"id": "L01",
+"lista": "Semifinal América · Local 01 Penal Inter",
+"n": 26,
+"ab": false,
+"nombre": "Semifinal America - Local 01 Penal Inter",
+"asunto": "{% if contact.NOMBRE %}{{ contact.NOMBRE }}, ya{% else %}Ya{% endif %} cobraste en el Penal. Ahora, el de verdad",
+"pre": "Del juego a la tribuna. Inter vs América en Techo: $70.000 COP + servicio."
+},
+{
+"id": "L02",
+"lista": "Semifinal América · Local 02 Hincha oficial",
+"n": 55,
+"ab": false,
+"nombre": "Semifinal America - Local 02 Hincha oficial",
+"asunto": "{% if contact.NOMBRE %}{{ contact.NOMBRE }}, te{% else %}Te{% endif %} registraste como hincha oficial. Esta es la prueba",
+"pre": "El partido para demostrarlo: Inter vs América en Techo, $70.000 COP + servicio."
+},
+{
+"id": "L03",
+"lista": "Semifinal América · Local 03 Fan ID",
+"n": 89,
+"ab": false,
+"nombre": "Semifinal America - Local 03 Fan ID",
+"asunto": "{% if contact.NOMBRE %}{{ contact.NOMBRE }}, tu{% else %}Tu{% endif %} Fan ID ya está listo para la semifinal",
+"pre": "Inter vs América en Techo: $70.000 COP + servicio."
+},
+{
+"id": "L04",
+"lista": "Semifinal América · Local 04 Polla y formularios",
+"n": 78,
+"ab": false,
+"nombre": "Semifinal America - Local 04 Polla y formularios",
+"asunto": "{% if contact.NOMBRE %}{{ contact.NOMBRE }}, ya{% else %}Ya{% endif %} jugaste con nosotros. Ahora, en la tribuna",
+"pre": "Inter vs América, semifinal en Techo: $70.000 COP + servicio."
+},
+{
+"id": "L05",
+"lista": "Semifinal América · Local 05 Semestre 2+ partidos",
+"n": 61,
+"ab": false,
+"nombre": "Semifinal America - Local 05 Semestre 2+ partidos",
+"asunto": "{% if contact.NOMBRE %}{{ contact.NOMBRE }}, tú{% else %}Tú{% endif %} no fallas. No puedes faltar a esta",
+"pre": "Has venido este semestre. Falta la semifinal: $70.000 COP + servicio."
+},
+{
+"id": "L06",
+"lista": "Semifinal América · Local 06 Semestre 1 partido en Techo",
+"n": 379,
+"ab": true,
+"nombre": "Semifinal America - Local 06 Semestre 1 partido en Techo",
+"asunto": "{% if contact.NOMBRE %}{{ contact.NOMBRE }}, ya{% else %}Ya{% endif %} conoces Techo. Esta noche es otra cosa",
+"pre": "Volver a Techo vale la pena: semifinal vs América, $70.000 COP + servicio."
+},
+{
+"id": "L07",
+"lista": "Semifinal América · Local 07 Campin, pago con Mastercard",
+"n": 272,
+"ab": true,
+"nombre": "Semifinal America - Local 07 Campin, pago con Mastercard",
+"asunto": "{% if contact.NOMBRE %}{{ contact.NOMBRE }}, viviste{% else %}Viviste{% endif %} El Campín. Ahora la semifinal es en casa",
+"pre": "Después de El Campín, semifinal en Techo: $70.000 COP + servicio."
+},
+{
+"id": "L08",
+"lista": "Semifinal América · Local 08 Campin, 3+ boletas",
+"n": 383,
+"ab": true,
+"nombre": "Semifinal America - Local 08 Campin, 3+ boletas",
+"asunto": "{% if contact.NOMBRE %}{{ contact.NOMBRE }}, tráete{% else %}Tráete{% endif %} otra vez a tu parche a la semifinal",
+"pre": "Vengan todos otra vez: semifinal en Techo, $70.000 COP + servicio."
+},
+{
+"id": "L09",
+"lista": "Semifinal América · Local 09 Campin, 2 boletas",
+"n": 382,
+"ab": true,
+"nombre": "Semifinal America - Local 09 Campin, 2 boletas",
+"asunto": "{% if contact.NOMBRE %}{{ contact.NOMBRE }}, vuelvan{% else %}Vuelvan{% endif %} los dos: la semifinal es en Techo",
+"pre": "Una semifinal para dos: Inter vs América en Techo, $70.000 COP + servicio."
+},
+{
+"id": "L10",
+"lista": "Semifinal América · Local 10 Campin, 1 boleta",
+"n": 116,
+"ab": true,
+"nombre": "Semifinal America - Local 10 Campin, 1 boleta",
+"asunto": "{% if contact.NOMBRE %}{{ contact.NOMBRE }}, ya{% else %}Ya{% endif %} eres de los nuestros. Vuelve a la semifinal",
+"pre": "Viviste El Campín. La semifinal es en Techo: $70.000 COP + servicio."
+},
+{
+"id": "L11",
+"lista": "Semifinal América · Local 11 Ex abonado VIP",
+"n": 106,
+"ab": true,
+"nombre": "Semifinal America - Local 11 Ex abonado VIP",
+"asunto": "{% if contact.NOMBRE %}{{ contact.NOMBRE }}, siempre{% else %}Siempre{% endif %} has estado entre los primeros. Esta noche, también",
+"pre": "Has estado con nosotros en este camino. Semifinal en Techo: $70.000 COP + servicio."
+},
+{
+"id": "L12",
+"lista": "Semifinal América · Local 12 Abono 2026-I, fue este semestre",
+"n": 21,
+"ab": false,
+"nombre": "Semifinal America - Local 12 Abono 2026-I, fue este semestre",
+"asunto": "{% if contact.NOMBRE %}{{ contact.NOMBRE }}, sigues{% else %}Sigues{% endif %} viniendo. No te pierdas esta",
+"pre": "Fuiste abonado y sigues viniendo. Semifinal en Techo: $70.000 COP + servicio."
+},
+{
+"id": "L13",
+"lista": "Semifinal América · Local 13 Abono 2026-I, 3+ partidos",
+"n": 279,
+"ab": true,
+"nombre": "Semifinal America - Local 13 Abono 2026-I, 3+ partidos",
+"asunto": "{% if contact.NOMBRE %}{{ contact.NOMBRE }}, este{% else %}Este{% endif %} partido es para volver a Techo",
+"pre": "Fuiste abonado este año. Vuelve a la semifinal: $70.000 COP + servicio."
+},
+{
+"id": "L14",
+"lista": "Semifinal América · Local 14 Abono 2026-I, menos de 3 partidos",
+"n": 333,
+"ab": true,
+"nombre": "Semifinal America - Local 14 Abono 2026-I, menos de 3 partidos",
+"asunto": "{% if contact.NOMBRE %}{{ contact.NOMBRE }}, te{% else %}Te{% endif %} falta este capítulo de la historia",
+"pre": "Fuiste abonado este año. No te pierdas la semifinal: $70.000 COP + servicio."
+},
+{
+"id": "L15",
+"lista": "Semifinal América · Local 15 Abonados antiguos",
+"n": 32,
+"ab": false,
+"nombre": "Semifinal America - Local 15 Abonados antiguos",
+"asunto": "{% if contact.NOMBRE %}{{ contact.NOMBRE }}, estuviste{% else %}Estuviste{% endif %} desde mucho antes. Mira hasta dónde llegamos",
+"pre": "Fuiste abonado. Mira hasta dónde llegamos: $70.000 COP + servicio."
+},
+{
+"id": "L16",
+"lista": "Semifinal América · Local 16 2026-I, 2+ partidos",
+"n": 100,
+"ab": false,
+"nombre": "Semifinal America - Local 16 2026-I, 2+ partidos",
+"asunto": "{% if contact.NOMBRE %}{{ contact.NOMBRE }}, se{% else %}Se{% endif %} te extraña en la tribuna",
+"pre": "Viniste varias veces este año. Falta la semifinal: $70.000 COP + servicio."
+},
+{
+"id": "L17",
+"lista": "Semifinal América · Local 17 2026-I, Millonarios o Cali",
+"n": 262,
+"ab": true,
+"nombre": "Semifinal America - Local 17 2026-I, Millonarios o Cali",
+"asunto": "{% if contact.NOMBRE %}{{ contact.NOMBRE }}, viviste{% else %}Viviste{% endif %} un partido grande. Este es mayor",
+"pre": "Una semifinal en Techo: $70.000 COP + servicio."
+},
+{
+"id": "L18",
+"lista": "Semifinal América · Local 18 2026-I, 1 partido otro rival",
+"n": 253,
+"ab": true,
+"nombre": "Semifinal America - Local 18 2026-I, 1 partido otro rival",
+"asunto": "{% if contact.NOMBRE %}{{ contact.NOMBRE }}, vuelve{% else %}Vuelve{% endif %} para la más importante",
+"pre": "Viniste este año. Vuelve a la semifinal en Techo: $70.000 COP + servicio."
+},
+{
+"id": "L19",
+"lista": "Semifinal América · Local 19 Ultimo partido 2025",
+"n": 373,
+"ab": true,
+"nombre": "Semifinal America - Local 19 Ultimo partido 2025",
+"asunto": "{% if contact.NOMBRE %}{{ contact.NOMBRE }}, pasó{% else %}Pasó{% endif %} un año. Mira dónde estamos",
+"pre": "Hace rato no vienes y estamos en semifinales: $70.000 COP + servicio."
+},
+{
+"id": "L20",
+"lista": "Semifinal América · Local 20 Ultimo partido 2023-24",
+"n": 307,
+"ab": true,
+"nombre": "Semifinal America - Local 20 Ultimo partido 2023-24",
+"asunto": "{% if contact.NOMBRE %}{{ contact.NOMBRE }}, hace{% else %}Hace{% endif %} rato no nos vemos. Mira hasta dónde llegamos",
+"pre": "Estamos en semifinales y queremos verte: $70.000 COP + servicio."
+},
+{
+"id": "L21",
+"lista": "Semifinal América · Local 21 Ultimo partido 2022",
+"n": 182,
+"ab": true,
+"nombre": "Semifinal America - Local 21 Ultimo partido 2022",
+"asunto": "{% if contact.NOMBRE %}{{ contact.NOMBRE }}, este{% else %}Este{% endif %} equipo ya no es el que recuerdas",
+"pre": "Ven a verlo en semifinales: $70.000 COP + servicio."
+},
+{
+"id": "ACA",
+"lista": "Semifinal América · Academia A Ya fue a partido",
+"n": 535,
+"ab": true,
+"nombre": "Semifinal America - Academia A Ya fue a partido",
+"asunto": "No queremos que te pierdas este partido",
+"pre": "Tu beneficio como padre de Academia: boleta a $50.000 COP + servicio."
+},
+{
+"id": "ACB",
+"lista": "Semifinal América · Academia B Nunca ha ido",
+"n": 2623,
+"ab": true,
+"nombre": "Semifinal America - Academia B Nunca ha ido",
+"asunto": "Este es tu beneficio por ser padre de Academia",
+"pre": "Tu precio especial para la semifinal de Copa: $50.000 COP + servicio."
+}
+]
