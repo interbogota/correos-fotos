@@ -55,39 +55,39 @@
 },
 {
 "id": "L07",
-"lista": "Semifinal América · Local 07 Campin, pago con Mastercard",
+"lista": "Semifinal América · Local 07 Un partido, pago con Mastercard",
 "n": 272,
 "ab": true,
-"nombre": "Semifinal America - Local 07 Campin, pago con Mastercard",
-"asunto": "{% if contact.NOMBRE %}{{ contact.NOMBRE }}, viviste{% else %}Viviste{% endif %} El Campín. Ahora la semifinal es en casa",
-"pre": "Después de El Campín, semifinal en Techo: $70.000 COP + servicio."
+"nombre": "Semifinal America - Local 07 Un partido, pago con Mastercard",
+"asunto": "{% if contact.NOMBRE %}{{ contact.NOMBRE }}, ya{% else %}Ya{% endif %} viviste un partido del Inter. Falta el más grande",
+"pre": "Inter vs América, semifinal en Techo: $70.000 COP + servicio."
 },
 {
 "id": "L08",
-"lista": "Semifinal América · Local 08 Campin, 3+ boletas",
+"lista": "Semifinal América · Local 08 Un partido, 3+ boletas",
 "n": 383,
 "ab": true,
-"nombre": "Semifinal America - Local 08 Campin, 3+ boletas",
+"nombre": "Semifinal America - Local 08 Un partido, 3+ boletas",
 "asunto": "{% if contact.NOMBRE %}{{ contact.NOMBRE }}, tráete{% else %}Tráete{% endif %} otra vez a tu parche a la semifinal",
 "pre": "Vengan todos otra vez: semifinal en Techo, $70.000 COP + servicio."
 },
 {
 "id": "L09",
-"lista": "Semifinal América · Local 09 Campin, 2 boletas",
+"lista": "Semifinal América · Local 09 Un partido, 2 boletas",
 "n": 382,
 "ab": true,
-"nombre": "Semifinal America - Local 09 Campin, 2 boletas",
+"nombre": "Semifinal America - Local 09 Un partido, 2 boletas",
 "asunto": "{% if contact.NOMBRE %}{{ contact.NOMBRE }}, vuelvan{% else %}Vuelvan{% endif %} los dos: la semifinal es en Techo",
 "pre": "Una semifinal para dos: Inter vs América en Techo, $70.000 COP + servicio."
 },
 {
 "id": "L10",
-"lista": "Semifinal América · Local 10 Campin, 1 boleta",
+"lista": "Semifinal América · Local 10 Un partido, 1 boleta",
 "n": 116,
 "ab": true,
-"nombre": "Semifinal America - Local 10 Campin, 1 boleta",
+"nombre": "Semifinal America - Local 10 Un partido, 1 boleta",
 "asunto": "{% if contact.NOMBRE %}{{ contact.NOMBRE }}, ya{% else %}Ya{% endif %} eres de los nuestros. Vuelve a la semifinal",
-"pre": "Viviste El Campín. La semifinal es en Techo: $70.000 COP + servicio."
+"pre": "Ya estuviste en la tribuna. La semifinal es en Techo: $70.000 COP + servicio."
 },
 {
 "id": "L11",
